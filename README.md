@@ -9,3 +9,8 @@ Download Python 3.11.0 and make sure to add it to PATH.
 Run the installer in the Loader folder.
 
 Have fun!
+
+
+discord.gg/blackflare1
+discord.gg/blackflare 
+Creators: ArturM x Seksocholikk
